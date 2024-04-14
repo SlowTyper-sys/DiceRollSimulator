@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.dice{
+    text-align: center;
+    font-size: 80px;
+}
+
+button{
+    width: 40%;
+}
