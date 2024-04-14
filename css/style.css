@@ -5,9 +5,12 @@ body{
 
 .dice{
     text-align: center;
-    font-size: 80px;
+    font-size: 100px;
 }
 
 button{
     width: 40%;
+    color: white;
+    padding: 15px 0;
+    background-color: blueviolet;
 }
